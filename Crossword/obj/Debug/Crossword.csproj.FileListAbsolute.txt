@@ -1,0 +1,123 @@
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\salvi.16159\Desktop\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - Copia\Crossword\obj\Debug\Crossword.pdb
+D:\Crossword\Crossword\bin\Debug\Crossword.exe.config
+D:\Crossword\Crossword\bin\Debug\Crossword.exe
+D:\Crossword\Crossword\bin\Debug\Crossword.pdb
+D:\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+D:\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+D:\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+D:\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+D:\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+D:\Crossword\Crossword\obj\Debug\Crossword.exe
+D:\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - 10\Crossword\obj\Debug\Crossword.pdb
+C:\Users\Mattia\Desktop\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Mattia\Desktop\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\Mattia\Desktop\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\Mattia\Desktop\Crossword\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - 1\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Crossword - OK - 1\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.ModelliGriglia.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.SceltaGriglia.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD\Crossword\obj\Debug\Crossword.Crossword.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.Crossword.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.ModelliGriglia.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.SceltaGriglia.resources
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\V2.1_Cruci - MOD - FINE\Crossword\obj\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\bin\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\bin\Debug\Crossword.pdb
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.Crossword.resources
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.ModelliGriglia.resources
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.SceltaGriglia.resources
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.exe
+C:\Users\nicco\Desktop\Scuola\4sup\Informatica\C#\Cruciverba\2.0\Crossword\obj\Debug\Crossword.pdb
